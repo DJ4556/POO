@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622818649105",
+    "project_id": "worker-cf6ce",
+    "storage_bucket": "worker-cf6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622818649105:android:5807ac5a1756919766fdb0",
+        "android_client_info": {
+          "package_name": "worker.e2344.e53_23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtBzU2OEnSPxnG2Ffq1-rxl5HZF5mFls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
